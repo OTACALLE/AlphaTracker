@@ -2,11 +2,6 @@
 
 Alpha Tracker is a scientific monitoring platform for detecting newly published complete amino-acid sequences that do not yet have public evidence of a corresponding structural model or structural publication in the sources queried by the system.
 
-Important scientific wording:
-
-> Alpha Tracker must never claim that nobody has run AlphaFold or any other structure predictor.
->
-> The correct conclusion is: "No public evidence of a structural model or corresponding structural publication was found in the queried sources."
 
 The system is designed to run continuously, deduplicate work, cache external evidence, rank candidate proteins, and generate alerts for promising structural biology opportunities.
 
